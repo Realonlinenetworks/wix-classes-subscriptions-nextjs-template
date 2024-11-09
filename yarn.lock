@@ -1102,36 +1102,36 @@ __metadata:
   linkType: hard
 
 "@wix/pricing-plans@npm:^1.0.17":
-  version: 1.0.91
-  resolution: "@wix/pricing-plans@npm:1.0.91"
+  version: 1.0.99
+  resolution: "@wix/pricing-plans@npm:1.0.99"
   dependencies:
-    "@wix/pricing-plans_orders": 1.0.38
-    "@wix/pricing-plans_plans": 1.0.41
-  checksum: 10c7f1deef0e77848e06031e4c93d406f1489bc0a3accdcd9f7dfb19e3b42eba61034caa1b129522688a01cb2a2362c056bbc11abd3822be2d3db001400bdb51
+    "@wix/pricing-plans_orders": 1.0.42
+    "@wix/pricing-plans_plans": 1.0.46
+  checksum: 04adb7205c5342efe1c545ef9d1e51ca9250441e06476849b8850ef6018f02abc3aa9d9252e8c743cd4874a067acbd4d35e9f0c328e0a48a33a1d5c4b1a87f2b
   languageName: node
   linkType: hard
 
-"@wix/pricing-plans_orders@npm:1.0.38":
-  version: 1.0.38
-  resolution: "@wix/pricing-plans_orders@npm:1.0.38"
+"@wix/pricing-plans_orders@npm:1.0.42":
+  version: 1.0.42
+  resolution: "@wix/pricing-plans_orders@npm:1.0.42"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
-    "@wix/sdk-types": ^1.9.2
-  checksum: 6ac248b7afd820a16052bdcc6a718864e1cdd587d17de569046f06463b997488237cbd25847237654ceda2adeb93f5a2e7f48bfb8beefcfb9003d94bf007defd
+    "@wix/sdk-types": ^1.12.3
+  checksum: 06fc0e7a7268ceacf5ff8d309ebc4e2093c8cb77dc9172df6f3ca803886eae6131e2cde087ef5008b5837c863036eb9bb2c7fa8f1e4af2f143de315bb6902cc6
   languageName: node
   linkType: hard
 
-"@wix/pricing-plans_plans@npm:1.0.41":
-  version: 1.0.41
-  resolution: "@wix/pricing-plans_plans@npm:1.0.41"
+"@wix/pricing-plans_plans@npm:1.0.46":
+  version: 1.0.46
+  resolution: "@wix/pricing-plans_plans@npm:1.0.46"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
-    "@wix/sdk-types": ^1.9.2
-  checksum: cd01b96732cf7913fb4fbd76dead5f0a98f7978f18595bf1bd2cab8a73a0b8261e55f82af16bf741f6fed849de1bacf7aeab907d43affbd2ef095c4828a99aad
+    "@wix/sdk-types": ^1.12.3
+  checksum: 41d387f1da06c8f40d0bd233844bcb632fa5d5cce845df4a5e6bd89b7d6d41fc459862e6b382e473af2d0357bc96c6b0b1f9c3f10c1633e34b9e219214ee537b
   languageName: node
   linkType: hard
 
@@ -1196,6 +1196,13 @@ __metadata:
   version: 1.12.1
   resolution: "@wix/sdk-types@npm:1.12.1"
   checksum: 02ff9d9fa8f8f084d97a357fc45ce224c39fb1068fb800f18f62993ec4cda74010769558aaeef4b462205e57b6ccb8e7262477cb4c6d7ac76d68af418a1e5c52
+  languageName: node
+  linkType: hard
+
+"@wix/sdk-types@npm:^1.12.3":
+  version: 1.12.4
+  resolution: "@wix/sdk-types@npm:1.12.4"
+  checksum: 31969ee9526c2e6a526cd1cebc21628e70e0b309c186ca2fc6dca0155090f0a721483426fac6b0d50365704637ebe13bd838df67c3b7986e6f06e5b061de2905
   languageName: node
   linkType: hard
 
